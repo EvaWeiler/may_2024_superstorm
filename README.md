@@ -29,7 +29,7 @@ To run the Jupyter notebooks, jupyter lab has to be started:
 jupyter lab
 ```
 
-The data needed for the python-scripts are stored in a figshare repository: https://doi.org/10.6084/m9.figshare.27792873.v1 
+The data needed for the python-scripts are stored in a figshare repository: [https://doi.org/10.6084/m9.figshare.27792873.v1](https://doi.org/10.6084/m9.figshare.27792873](https://doi.org/10.6084/m9.figshare.27792873) 
 
 ## Codes
 ### 1. source_regions_may2024.ipnyb
