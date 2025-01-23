@@ -29,9 +29,9 @@ To run the Jupyter notebooks, jupyter lab has to be started:
 jupyter lab
 ```
 
-The data needed for the python-scripts are stored in a figshare repository: [https://doi.org/10.6084/m9.figshare.27792873.v1](https://doi.org/10.6084/m9.figshare.27792873](https://doi.org/10.6084/m9.figshare.27792873) 
-
 ## Codes
+The data needed for the python-scripts are stored in a figshare repository: https://doi.org/10.6084/m9.figshare.27792873
+
 ### 1. source_regions_may2024.ipnyb
 This code produces Figure 2 in the paper. It requires the fits-files from the figshare repository which should be saved in a folder called 'data'.
 
