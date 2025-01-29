@@ -1,5 +1,7 @@
 # Geomagnetic Superstorm of May 2024
 
+<a href="https://doi.org/10.5281/zenodo.14763299"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14763299.svg" alt="DOI"></a>
+
 This repository contains codes to reproduce the results in Weiler et al. (2025): [First observations of a geomagnetic superstorm with a sub-L1 monitor](https://arxiv.org/abs/2411.12490) (in revision)
 
 If you have any questions, feel free to contact me: eva.weiler@geosphere.at
