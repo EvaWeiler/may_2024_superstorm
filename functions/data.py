@@ -28,7 +28,6 @@ import astropy.time
 
 # Local
 from .predict import calc_dst_temerin_li
-from .config.constants import AU, dist_to_L1
 
 logger = logging.getLogger(__name__)
 
