@@ -2,7 +2,7 @@
 
 <a href="https://doi.org/10.5281/zenodo.14772679"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14772679.svg" alt="DOI"></a>
 
-This repository contains codes to reproduce the results in Weiler et al. (2025): [First observations of a geomagnetic superstorm with a sub-L1 monitor]([https://doi.org/10.1029/2024SW004260])
+This repository contains codes to reproduce the results in Weiler et al. (2025): [First observations of a geomagnetic superstorm with a sub-L1 monitor](https://doi.org/10.1029/2024SW004260)
 
 If you have any questions, feel free to contact me: eva.weiler@geosphere.at
 
